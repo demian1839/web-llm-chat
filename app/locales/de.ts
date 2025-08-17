@@ -7,7 +7,7 @@ const de: PartialLocaleType = {
     ChatItemCount: (count: number) => `${count} Nachrichten`,
   },
   Chat: {
-    SubTitle: (count: number) => `${count} Nachrichten mit ChatGPT`,
+    SubTitle: (count: number) => `${count} Nachrichten mit Hey Oregon`,
     Actions: {
       ChatList: "Zur Chat-Liste gehen",
       CompressedHistory: "Komprimierter Gedächtnis-Prompt",
@@ -36,7 +36,7 @@ const de: PartialLocaleType = {
     Copy: "Alles kopieren",
     Download: "Herunterladen",
     MessageFromYou: "Deine Nachricht",
-    MessageFromWebLLM: "Nachricht von WebLLM",
+    MessageFromWebLLM: "Nachricht von Hey Oregon",
   },
   Memory: {
     Title: "Gedächtnis-Prompt",
@@ -145,7 +145,7 @@ const de: PartialLocaleType = {
   },
   Store: {
     DefaultTopic: "Neues Gespräch",
-    BotHello: "Hallo! Wie kann ich Ihnen heute helfen?",
+    BotHello: "Hallo! Willkommen bei Hey Oregon Wie kann ich Ihnen heute helfen? ",
     Error:
       "Etwas ist schief gelaufen, bitte versuchen Sie es später noch einmal.",
     Prompt: {
